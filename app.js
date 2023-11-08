@@ -25,6 +25,7 @@ const months = [
   "November",
   "December",
 ];
+// hello there
 
 const time = `${days[date.getDay() - 1].slice(0, 3)}, ${
   months[date.getMonth()]
